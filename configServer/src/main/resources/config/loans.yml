@@ -1,0 +1,15 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to loan related API's"
+  contactDetail:
+    name: "MD ASIF SHAMIM (Developer)"
+    email: "asifshamim0403@gmail.com"
+  onCallSupport:
+    - (+91) 9131053401
+    - (+91) 7089717309
+
+
+
+

@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Loan Related Production API"
+  contactDetail:
+    name: "Hardik ojha- Product Owner"
+    email: "hardik.ojha@gmail.com"
+  onCallSupport:
+    - (+91) 6264493940

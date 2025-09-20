@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Card Related Local API"
+  contactDetail:
+    name: "MD ASIF SHAMIM (Developer)"
+    email: "asifshamim0403@gmail.com"
+  onCallSupport:
+    - (+91) 9131053401
+    - (+91) 7089717309
