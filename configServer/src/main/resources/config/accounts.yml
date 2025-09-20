@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank accounts related local APIs"
+  contactDetails:
+    name: "Md Asif SHAMIM- developer"
+    email: "asifshamim0403@gmail.com"
+  onCallSupport:
+    - (+91) 9131053401
+    - (+91) 7089717309

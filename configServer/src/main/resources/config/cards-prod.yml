@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Card Related Production API"
+  contactDetail:
+    name: "Hardik ojha- Product Owner"
+    email: "hardik.ojha@gmail.com"
+  onCallSupport:
+    - (+91) 6264493940

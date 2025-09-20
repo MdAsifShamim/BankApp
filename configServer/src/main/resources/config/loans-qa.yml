@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Loan Related QA API"
+  contactDetail:
+    name: "Zeeshan Ali- QA Head"
+    email: "zeeshanali@gmail.com"
+  onCallSupport:
+    - (+91) 8178512063
+    - (+91) 7503543436
